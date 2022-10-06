@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 
 // Components
-import Background from './components/Background'
+import Background from '../components/Background'
 
 // @mui/material components
 import TextField from '@mui/material/TextField';

@@ -1,4 +1,4 @@
-import Background from './components/Background'
+import Background from '../components/Background'
 import TextField from '@mui/material/TextField';
 
 
