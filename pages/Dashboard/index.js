@@ -6,7 +6,6 @@ const Layout = ({ children }) => {
 
   const [show, setShow] = useState(false);
  
- 
   return (
     <div className="h-screen flex flex-row justify-start">
 
