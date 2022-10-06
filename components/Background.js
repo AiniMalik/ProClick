@@ -2,7 +2,7 @@ import React from 'react'
 
 const Background =  ( { children } ) => {
   return (
-    <div className="bg-backgroundImg h-screen bg-auto bg-no-repeat bg-center">
+    <div className="bg-backgroundImg h-screen bg-cover bg-no-repeat bg-center">
 
         <div className="px-20">
 
