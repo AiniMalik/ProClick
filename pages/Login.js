@@ -48,7 +48,7 @@ const Login = () => {
             </p>
             </div>
 
-            <div style={{ width:"90%"}}className="mt-9">
+            <div style={{ width:"93%"}}className="mt-9">
             <TextField 
             style={{width: "100%"}} 
             id="outlined-basic" 
@@ -68,7 +68,7 @@ const Login = () => {
             </div>
 
 
-            <div style={{ width:"90%"}} className="mt-5">
+            <div style={{ width:"93%"}} className="mt-5">
             <TextField 
              style={{width: "100%"}} 
              sx={{ input: {borderRadius: "6px"  } }}   
@@ -111,7 +111,7 @@ const Login = () => {
                </div>
             </div>
 
-            <div style={{ width:"90%", height:"60px", borderRadius: "4px"}}  
+            <div style={{ width:"93%", height:"60px", borderRadius: "4px"}}  
              className="bg-black mt-[4rem]  text-white  grid items-center justify-items-center">
             <button className="">Login</button>
             </div>
